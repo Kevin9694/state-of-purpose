@@ -1,0 +1,145 @@
+%%% LaTeX Template: Curriculum Vitae
+%%%
+%%% Source: http://www.howtotex.com/
+%%% Feel free to distribute this template, but please keep the referal to HowToTeX.com
+%%% Date: July 2011
+
+%%% ------------------------------------------------------------
+%%% BEGIN PREAMBLE
+%%% ------------------------------------------------------------
+\documentclass[paper=a4,fontsize=11pt]{scrartcl}	
+							
+%\usepackage[english]{babel}
+%\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{amsmath,amsfonts,amsthm}
+\usepackage[pdftex]{graphicx}
+\usepackage[svgnames]{xcolor}
+\usepackage[top=15ex, bottom=15ex, left=15ex, right=15ex]{geometry}
+	\textheight=700px
+\usepackage{url}
+\usepackage{wrapfig}
+
+\frenchspacing
+\pagestyle{empty}		% No pagenumbers/headers/footers
+%\usepackage{bbding}	% Symbols
+
+
+\usepackage{sectsty}	% Custom sectioning
+
+\sectionfont{%			% Change font of \section command
+	\usefont{OT1}{phv}{b}{n}%			% bch-b-n: CharterBT-Bold font
+	\sectionrule{0pt}{0pt}{-5pt}{3pt}
+	}
+
+\newlength{\spacebox}
+\settowidth{\spacebox}{8888888888}			% Box to align text
+\newcommand{\sepspace}{\vspace*{1em}}		% Vertical space macro
+
+\newcommand{\MyName}[1]{
+		\Huge \usefont{OT1}{phv}{b}{n} \hfill #1 		% Name
+		\par \normalsize \normalfont}
+		
+\newcommand{\MySlogan}[1]{
+		\large \usefont{OT1}{phv}{m}{n}\hfill \textit{#1} % Slogan (optional)
+		\par \normalsize \normalfont}
+
+\newcommand{\NewPart}[1]{\section*{\uppercase{#1}}}
+
+\newcommand{\TableEntry}[2]{
+		\noindent\hangindent=2em\hangafter=0 	% Indentation
+		\parbox{\spacebox}{
+		\textit{#1}}							% Title (birth, address, skills, etc.)
+		\hspace{1.5em} #2 \par}					% Entry
+
+\newcommand{\DetailEntry}[4]{
+		\noindent \hangindent=2em\hangafter=0 \textbf{#1} \hfill 	% Title
+		\colorbox{Grey}{%
+			\parbox{8.1em}{%
+			\hfill\color{White}#2}} \par						% Time
+		\vspace{0.2em}
+		\noindent \hangindent=3em\hangafter=0\textit{#3} \par		% Place, School, Company, etc.
+		\noindent\hangindent=3em\hangafter=0 \small #4 			% Description
+		\normalsize \par}
+
+\newcommand{\BasicEntry}[3]{
+		\noindent \hangindent=2em\hangafter=0 \textbf{#1} \hfill 	% Title
+		\colorbox{Grey}{%
+			\parbox{8.1em}{%
+			\hfill\color{White}#2}} \par						% Time
+		\vspace{0.2em}
+		\noindent\hangindent=3em\hangafter=0 \small #3 			% Description
+		\normalsize \par}
+
+\newcommand{\SimpleEntry}[2]{
+		\noindent \hangindent=2em\hangafter=0 {#1} \hfill 	% Description
+		\colorbox{Grey}{%
+			\parbox{3.6em}{%
+			\hfill\color{White}#2}} \par					% Time
+		\normalsize \par}
+
+\newcommand{\WordsEntry}[1]{
+		\noindent \hangindent=2em\hangafter=0 {#1} \hfill 	% Words
+		\normalsize \par}
+
+%%% ------------------------------------------------------------
+%%% BEGIN DOCUMENT
+%%% ------------------------------------------------------------
+
+\begin{document}
+%\begin{wrapfigure}{l}{0.5\textwidth}						%Insert a picture if needed
+%	\vspace*{-2em}
+%		\includegraphics[width=0.15\textwidth]{picture}
+%\end{wrapfigure}
+
+\MyName{Parry Hotter}
+\MySlogan{Curriculum Vitae}
+
+\sepspace
+
+%%% Personal details
+\NewPart{Personal details}{}
+
+\TableEntry{Birth}{February 30, 1980} 
+\TableEntry{Address}{Somewhere in this world muggles cannot find}
+\TableEntry{Phone}{314159265}
+\TableEntry{Mail}{\url{spam.me.if.you.can@nowhere.com}}
+\TableEntry{Website}{\url{http://do.not.click.this.link}}
+
+%%% Education
+\NewPart{Education}{} 
+
+\DetailEntry{PhD in Defence Against the Dark Arts}{2003/09 - 2009/08}{Hogwarts School of Witchcraft and Wizardry}{Bravo! Best wizardry school of the world!}
+
+%%% Work experience
+\NewPart{Work experience}{}
+
+\DetailEntry{Senior Auror}{2009/10 - Present}{Order of the Phoenix, Ministry of Magic}{I arrested one Death Eater, two Death Eaters, three Death Eaters \dots}
+
+\NewPart{Research experience}{}
+
+\BasicEntry{PhD thesis: The Magic of Muggles' Mobile Phones}{2007/01 - 2009/08}{Holy Jesus! Muggles use mobile phones, what sort of magic is that! I have been studying these little things with my full efforts but I cannot get a clue of it!}
+\sepspace
+
+\BasicEntry{How to Fly without a Broomstick?}{2006/01 - 2006/07}{Muggles can fly with those big monsters which they call airplanes. Weird!}
+
+%%% Honors
+\NewPart{Honors}{}
+
+\SimpleEntry{Albus Dumbledore Prize for outstanding students, Hogwarts}{2008/10}
+\SimpleEntry{Godric Gryffindor Fellowship, Hogwarts}{2007/06}
+
+%%% Skills
+\NewPart{Skills}{}
+
+\TableEntry{Languages}{Standard English (mother tongue)}
+\TableEntry{}{Parseltongue (don't know why I can speak this)}
+
+\TableEntry{Charms}{Expecto Patronum, Wingardium Leviosa}
+
+%\TableEntry{Software}{\textsc{C}, \LaTeX, \textsc{Python}}
+
+%%% References
+\NewPart{References}{}
+\WordsEntry{Available upon request}
+
+\end{document}
