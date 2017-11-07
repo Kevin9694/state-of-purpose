@@ -31,19 +31,21 @@
 此外, 在大三的时候虽然他很忙但是他仍然花了很大的时间在写书上。他很认真的设计了整本书的结构,以及章节之间的关系,让读者能够由浅入深,每次进步都不会太难。对于读者来说有些困难的地方,他都会给出图示以及个人的理解来辅助解释这一点。有很多次他找到我想让我去以一个新手的角度谈论是否他所写的部分对新手是友好的.
 
 此外,他在大三的时候用了很多时间在这本教程上。基本上每一个章节的教程他都要自己去重复做很多次以便达到最佳效果。
+
 </skyblue>
 
 总的来说, 我觉得冯凯文是一个很有天分的人, 相比于我的其他学生,他的知识面明显更广,对一半事物的了解也明显更深。我相信贵大学是一个很适合培养他的地方,请考虑给他一个机会。我确信他会在未来的学习中取得良好的成绩并且成为栋梁之才。
 
 
+
 To Whom It May Concern,
 
-I am pleased to avail myself of this opportunity to recommend Kaiwen Feng, one of my most outstanding students to your prestigious university. Kaiwen took all of the undergraduate level classes I lectured, including Introduction to Computer Science, Career Planning and Development, and Software Engineering, from all of which I have witnessed his <red>distinctive performance.</red>
+I am pleased to avail myself of this opportunity to recommend Kaiwen Feng, one of my most outstanding students to your prestigious university. Kaiwen took all of the undergraduate level classes I lectured, including Introduction to Computer Science, Career Planning and Development, and Software Engineering, from all of which I have witnessed his distinctive performance.
 
-Kaiwen is a student who is always eager to learn new things and critical to knowledge(对知识保持着批判性思考)。 I was suprised that he finished the book that I recommend in Introduction to Computer Science which I lectured, and he also find some mistakes in the book. 
+Kaiwen is a student who is always eager to learn new things and thinking critically about knowledge. I was surprised that he finished the book that I recommend in Introduction to Computer Science which I lectured, and he also finds some mistakes in the book.
 
-In the College, he was the <tomato>leader</tomato> of pubilicity, I know he often teaches other students how to <tomato>clip a movie and add some after effects</tomato>. So I invited him to co-author a book *Premiere & After Effects Quick Start*, which will be published in spring 2018. The part of the book he wrote is of high quality and (almost) free from errors. He could always explain those <tomato>complicated mechanisms with vivid and straightforward description, but later formalize these intuitions in a precise way.</tomato>
+In the college, he was the leader of publicity, I know he often teaches other students how to clip video and do post-process. So I invited him to co-author a book *Premiere & After Effects Quick Start*, which will be published in spring 2018. The part of the book he wrote is of high quality and free from errors. He could always distinct similar methods with vivid and straightforward description, but later shows the nature between those methods.
 
-In addition, he is really a responsive student. He almost try many times on making clips in almost every chapters to find what is the best way for the readers. He also carefully designed the organization of each chapter to arrange them in a logically coherent way and from easy to diffcult, so that the readers may not feel so diffcult to learn. To some really hard points, he gives his own opinion and figures to illustrate. For many times, he discusses with me on very small details, trying to simplify the book and make it more readable.
+In addition, he is a responsive student. He almost try many times on making clips in nearly every chapter to find what is the best way for the readers. He also carefully designed the organization of each chapter to arrange them in a logically coherent way and from easy to difficult, so that the readers may not feel so difficult to learn. To some really hard points, he gives his own opinion and figures to illustrate. For many times, he discusses with me on very small details, trying to simplify the book and make it more readable.
 
-To sum up, I appreciate <tomato> young talents</tomato> like Kaiwen, and hope that there will be a perfect platform for him to improve himself. Your university constitures an ideal place for him. Please consider giving him a change and I am sure he can become an expert in his field later.
+To sum up, I appreciate young talents like Kaiwen, and hope that there will be a perfect platform for him to improve himself. Your university constitutes an ideal place for him. Please consider giving him a chance and I am sure he can become an expert in his field later.
