@@ -34,3 +34,8 @@ To Whom It May Concern,
 
 I am pleased to avail myself of this opportunity to recommend Kaiwen Feng, one of my most outstanding students to your prestigious university. Kaiwen took all of the undergraduate level classes I lectured, including Introduction to Computer Science, Career Planning and Development, and Software Engineering, from all of which I have witnessed his <red>distinctive performance.</red>
 
+Kaiwen is a student who is always eager to learn new things and critical to knowledge(对知识保持着批判性思考)。 I was suprised that he finished the book that I recommend in Introduction to Computer Science which I lectured, and he also find some mistakes in the book. (....)
+
+In the College, he was the <tomato>leader</tomato> of pubilicity, I know he often teaches other students how to <tomato>clip a movie and add some after effects</tomato>. So I invited him to co-author a book *Premiere & After Effects Quick Start*, which will be published in spring 2018. ( ... )
+
+To sum up, I appreciate <tomato> young talents</tomato> like Kaiwen, and hope that there will be a perfect platform for him to improve himself. Your university constitures an ideal place for him. Please consider giving him a change and I am sure he can become an expert in his field later.
